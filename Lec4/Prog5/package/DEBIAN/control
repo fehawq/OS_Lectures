@@ -5,6 +5,6 @@ Priority: optional
 Depends: libc6
 Architecture: amd64
 Essential: no
-Installed-Size: 16
+Installed-Size: 20
 Maintainer: fehawq <ismail_kasiev@mail.ru>
 Description: program 5 from lecture 4
