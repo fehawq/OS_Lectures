@@ -1,0 +1,10 @@
+Package: prog5.o
+Version: 1.0
+Section: unknown
+Priority: optional
+Depends: libc6
+Architecture: amd64
+Essential: no
+Installed-Size: 16
+Maintainer: fehawq <ismail_kasiev@mail.ru>
+Description: program 5 from lecture 4
